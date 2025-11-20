@@ -1,0 +1,7 @@
+/config/serviceAccountKey.json
+.env
+.env*
+/node_modules*
+/coverage
+node_modules/*
+node_modules*
